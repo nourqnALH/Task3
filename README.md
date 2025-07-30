@@ -8,8 +8,8 @@ This project includes a 3D printable **robot arm joint** that was converted into
 
 We used AnkerMake Studio to slice the STL file and prepare it for printing on the **AnkerMake M5** printer with a **0.4 mm nozzle**.
 
-### 📸Screenshot of the final slicing setup:
-![Slicing Screenshot](./slicing_screenshot.png)
+### Screenshot of the final slicing setup:
+![Slicing Screenshot]()
 
 ---
 
